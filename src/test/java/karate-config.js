@@ -1,6 +1,6 @@
 function() {
 
-  var env = 'uat';//karate.env;
+  var env = 'qa';//karate.env;
   var project = 'users';//karate.project;
   var config = {
   javaLib: {}
